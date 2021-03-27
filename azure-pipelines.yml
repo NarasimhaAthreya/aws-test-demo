@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
- name: ATHREYA-DELL-55
+ agent: ATHREYA-DELL-55
  
 
 steps:
